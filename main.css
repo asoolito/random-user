@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 100px auto;
+    padding: 20px;
+}
+.Btn{
+    display: flex;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+
+}
